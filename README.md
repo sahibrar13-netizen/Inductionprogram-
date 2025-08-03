@@ -1,6 +1,6 @@
-Day 1: 30th July 2025
+#Day 1: 30th July 2025
 
- Student Details
+ ##Student Details
 
 Name: Sahib Singh 
 
@@ -15,9 +15,9 @@ Mobile: 9306641547
 Email: sahibrar13@gmail.com
 
 
-8:30 – 9:30 AM |                      
+##8:30 – 9:30 AM |                      
 
-Visit to Gurudwara Sahib
+**Visit to Gurudwara Sahib**
 
 The day started with a peaceful visit to the Gurudwara Sahib inside the college campus. It gave us a calm and positive feeling before starting this new journey.
 
@@ -31,65 +31,66 @@ Here’s what each speaker talked about:
 
 1. **Harsimran Singh Jaggi**
 
-Topic: About GNDEC
+_Topic: About GNDEC_
 
-Shared the history of the college
+*Shared the history of the college
 
-Told us about its achievements
+*Told us about its achievements
 
-Explained college life and the facilities we will get
+*Explained college life and the facilities we will get
 
 2. **Dr. Harpreet Kaur (_HOD of Applied science in gne_)**
 
-Topic: Importance of First Year and Applied Science
+_Topic: Importance of First Year and Applied Science_
 
-Told us how the first year helps build our future
+*Told us how the first year helps build our future
 
-Explained how Applied Science connects school learning with engineering
+*Explained how Applied Science connects school learning with engineering
 
-3. Dr. Akshay Girdhar
+3. **Dr. Akshay Girdhar**
 
-Topic: More Than Just Studies
+_Topic: More Than Just Studies_
 
-Told us to also take part in clubs and activities
+*Told us to also take part in clubs and activities
 
-Said that college is not just about marks, but also about overall growth
+*Said that college is not just about marks, but also about overall growth
 
-4. Harleen Kaur
+4. **Harleen Kaur**
 
-Topic: Mindset and Goals
+_Topic: Mindset and Goals_
 
-Advised us to stay focused on our goals
+*Advised us to stay focused on our goals
 
-Said that if we work with purpose, success will follow
+*Said that if we work with purpose, success will follow
 
-5. Dr. Shehejpal (Principal)
+5. **Dr. Shehejpal (_Principal_)**
 
-Topic: Engineers Build the Nation
+_Topic: Engineers Build the Nation_
 
-Spoke about the important role of engineers in society
+*Spoke about the important role of engineers in society
 
-Talked about the rise of AI and how it’s changing the world
+*Talked about the rise of AI and how it’s changing the world
 
-Encouraged us to learn skills beyond books
+*Encouraged us to learn skills beyond books
 
-6. Sri Ravinder Garg (Chief Engineer, Municipal Corporation)
+6. **Sri Ravinder Garg (_Chief Engineer, Municipal Corporation_)**
 
-Topic: Be Disciplined
+_Topic: Be Disciplined_
 
-Told us to stay away from bad habits
+*Told us to stay away from bad habits
 
-Said hard work and prayer bring success and peace
+*Said hard work and prayer bring success and peace
 
- 7. Dr. Kulwinder Singh Maan (HOD, IT)
+ 7. **Dr. Kulwinder Singh Maan (_HOD, IT_)**
 
-Topic: No Big Difference Between CS and IT
+_Topic: No Big Difference Between CS and IT_
 
-Said that both Computer Science and IT give equal opportunities
+*Said that both Computer Science and IT give equal opportunities
 
-Advised us to focus on learning, no matter the branch
+*Advised us to focus on learning, no matter the branch
 
-The first day at GNDEC was full of learning and motivation. We got to know more about the college, our future journey, and how to make the most of our time here. It was a great start to our new life as engineering students!# Inductionprogram-
+
+###The first day at GNDEC was full of learning and motivation. We got to know more about the college, our future journey, and how to make the most of our time here. It was a great start to our new life as engineering students
 
 Day 2: 31th July 2025
 
