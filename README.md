@@ -1,6 +1,7 @@
 Day 1: 30th July 2025
 
 👤 Student Details
+
 Name: Sahib Singh 
 
 Father’s Name: Jasvinder Singh 
@@ -14,7 +15,9 @@ Mobile: 9306641547
 Email: sahibrar13@gmail.com
 
 🗓️ What Happened on the First Day
-⛅ 8:30 – 9:30 AM | Visit to Gurudwara Sahib
+⛅ 8:30 – 9:30 AM |                      
+
+Visit to Gurudwara Sahib
 The day started with a peaceful visit to the Gurudwara Sahib inside the college campus. It gave us a calm and positive feeling before starting this new journey.
 
 🎤 10:30 – 12:30 PM | Induction Seminar in the Auditorium
