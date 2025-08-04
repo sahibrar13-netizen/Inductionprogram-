@@ -1,4 +1,4 @@
-# Day 1: 30th July 2025
+# Day 1: 31th July 2025
 
  ## Student Details
 
@@ -23,7 +23,7 @@ The day started with a peaceful visit to the Gurudwara Sahib inside the college 
 
 ## 10:30 – 12:30 PM | 
 
-Induction Seminar in the Auditorium
+**Induction Seminar in the Auditorium**
 
 After the Gurudwara visit, we went to the college auditorium for the induction seminar. The session was hosted by Harsimran Ma’am, and many respected teachers and guests welcomed us and shared helpful advice.
 
@@ -95,7 +95,7 @@ _The first day at GNDEC was full of learning and motivation. We got to know more
 
 
 
-# Day 2: 31th July 2025
+# Day 2: 1st august 2025
 
  ##Student Details
 
@@ -137,3 +137,49 @@ From 9:30 AM to 10:30 AM, an English Proficiency Test was conducted to assess th
 
 
 _Overall, Day 2 of the induction program was highly effective and enriching. Students gained valuable knowledge about wellness through food, learned about the opportunities offered by the Causmic Club, and got introduced to important tech tools like GitHub. The sessions were interactive and engaging, helping students feel more connected, confident, and prepared for their journey ahead at GNDEC._
+
+
+
+# Day 3:  2nd august 2025
+
+## Student Details
+
+Name: Sahib Singh 
+
+Father's name: Jasvinder Singh 
+
+Branch: Computer Science & Engineering (CSE)
+
+Registration Number:25101958
+
+Mobile: 9306641547
+
+Email: sahibrar13@gmail.com
+
+ ## Induction day 3 summary 
+
+On 1st August 2025, all CSE and IT students gathered in the college auditorium at 9:00 AM for their department-specific induction program. From 9:00 AM to 11:00 AM, an engaging and interactive session was conducted by Dr. Jaswinder Singh, Incharge of the IACT Department. This was followed by a second session from 11:00 AM to 1:00 PM, delivered by Dr. Priya Darshni Madam, who continued to inspire and guide students through her informative talk.
+
+**Here's what each speaker talks about**:
+
+
+
+1. **Dr. Jaswinder Singh (_Incharge of iapt_)**:-
+
+* The third day of the induction program was dedicated to students of the Computer Science and Engineering (CSE) and Information Technology (IT) branches. The session began with a highly engaging and interactive talk by Dr. Jaswinder Singh, Incharge of the IAPT Department.
+
+* Dr. Singh started his session by explaining how mathematics is present in everything around us, from nature to technology. He also highlighted the power of Punjabi spirituality, especially focusing on the correct pronunciation and deep meaning of “Ik Onkar”. His words connected technical education with inner awareness and culture, making the session unique and thought-provoking.
+
+* What made his session even more special was the use of live experiments, like producing sound from a bowl, to demonstrate energy, vibration, and focus. These practical demonstrations caught students' attention and made complex concepts easy to understand. His teaching style was simple, spiritual, and very motivating
+
+2. **Sardar Gurcharan Singh Grewal (_Member of SGPC_)**
+
+* After Dr. Jaswinder Singh's session, Sardar Gurcharan Singh Grewal, a respected member of the Shiromani Gurdwara Parbandhak Committee (SGPC), addressed the students with a powerful motivational speech.
+
+3.**Dr. priya Darshni (_Expert in Universal Human Values_)**
+
+* The next session was taken by Dr. Priya Darshni, a respected expert in Universal Human Values. She spoke about how values like honesty, responsibility, empathy, and integrity play an important role not just in personal life but also in the professional world of engineering and education.
+
+* Her session made students realize that becoming a good engineer is not just about technical skills but also about having strong ethics and character. Through real-life examples and thoughtful discussion, she encouraged students to reflect on their behavior, choices, and future goals.
+
+_Day 3 of the induction program was deeply enriching and meaningful for CSE and IT students. From Dr. Jaswinder Singh’s energetic and practical session to the motivational words of Sardar Gurcharan Singh Grewal, and the value-based insights shared by Dr. Priya Darshni — each speaker brought something unique to the day. Students not only learned about technical and spiritual connections but also understood the importance of human values in shaping a successful and balanced life._ 
