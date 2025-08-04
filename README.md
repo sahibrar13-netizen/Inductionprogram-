@@ -27,7 +27,7 @@ The day started with a peaceful visit to the Gurudwara Sahib inside the college 
 
 After the Gurudwara visit, we went to the college auditorium for the induction seminar. The session was hosted by Harsimran Ma’am, and many respected teachers and guests welcomed us and shared helpful advice.
 
-Here’s what each speaker talked about:
+**Here’s what each speaker talked about**:
 
 1. **Harsimran Singh Jaggi**
 
@@ -97,7 +97,7 @@ _The first day at GNDEC was full of learning and motivation. We got to know more
 
 # Day 2: 1st august 2025
 
- ##Student Details
+ ## Student Details
 
 Name: Sahib Singh 
 
