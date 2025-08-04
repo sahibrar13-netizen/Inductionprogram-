@@ -117,7 +117,7 @@ From 9:30 AM to 10:30 AM, an English Proficiency Test was conducted to assess th
 
 **Here's what each speaker talks about**:
 
- 1.** Dr.Arshdeep Singh (_Ph.D food technology PAU_) **
+ 1.**Dr.Arshdeep Singh (_Ph.D food technology PAU_)**
  
 * On the second day of the induction program, a valuable expert lecture was organized by the college. Dr. Arshdeep Singh addressed the students on the importance of food in shaping their physical and mental well-being.
 
