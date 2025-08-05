@@ -182,8 +182,4 @@ On 1st August 2025, all CSE and IT students gathered in the college auditorium a
 
 * Her session made students realize that becoming a good engineer is not just about technical skills but also about having strong ethics and character. Through real-life examples and thoughtful discussion, she encouraged students to reflect on their behavior, choices, and future goals.
 
-_Day 3 of the induction program was deeply enriching and meaningful for CSE and IT students. From Dr. Jaswinder Singh’s energetic and practical session to the motivational words of Sardar Gurcharan Singh Grewal, and the value-based insights shared by Dr. Priya Darshni — each speaker brought something unique to the day. Students not only learned about technical and spiritual connections but also understood the importance of human values in shaping a successful and balanced life._ 
-
-
-sahib
-singh
+_Day 3 of the induction program was deeply enriching and meaningful for CSE and IT students. From Dr. Jaswinder Singh’s energetic and practical session to the motivational words of Sardar Gurcharan Singh Grewal, and the value-based insights shared by Dr. Priya Darshni — each speaker brought something unique to the day. Students not only learned about technical and spiritual connections but also understood the importance of human values in shaping a successful and balanced life._
