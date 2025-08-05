@@ -63,7 +63,7 @@ _Topic: Mindset and Goals_
 
 * Said that if we work with purpose, success   will follow
 
-5. **Dr. Shehejpal (_Principal_)**
+5. **Dr. Sehajpal (_Principal_)**
 
 _Topic: Engineers Build the Nation_
 
