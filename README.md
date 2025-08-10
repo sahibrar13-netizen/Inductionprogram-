@@ -1,4 +1,4 @@
-# Day 1: 31th July 2025
+
 
  ## Student Details
 
@@ -14,6 +14,7 @@ Mobile: 9306641547
 
 Email: sahibrar13@gmail.com
 
+# Day 1: 31th July 2025
 
 ## 8:30 – 9:30 AM |                      
 
@@ -97,19 +98,7 @@ _The first day at GNDEC was full of learning and motivation. We got to know more
 
 # Day 2: 1st august 2025
 
- ## Student Details
-
-Name: Sahib Singh 
-
-Father's name: Jasvinder Singh 
-
-Branch: Computer Science & Engineering  
-
-Registration Number: 25101958
-
-Mobile: 9306641547
-
-Email: sahibrar13@gmail.com
+ 
 
 ## Induction day 2 summary:
 
@@ -142,19 +131,7 @@ _Overall, Day 2 of the induction program was highly effective and enriching. Stu
 
 # Day 3:  2nd august 2025
 
-## Student Details
 
-Name: Sahib Singh 
-
-Father's name: Jasvinder Singh 
-
-Branch: Computer Science & Engineering (CSE)
-
-Registration Number:25101958
-
-Mobile: 9306641547
-
-Email: sahibrar13@gmail.com
 
  ## Induction day 3 summary 
 
@@ -183,3 +160,10 @@ On 1st August 2025, all CSE and IT students gathered in the college auditorium a
 * Her session made students realize that becoming a good engineer is not just about technical skills but also about having strong ethics and character. Through real-life examples and thoughtful discussion, she encouraged students to reflect on their behavior, choices, and future goals.
 
 _Day 3 of the induction program was deeply enriching and meaningful for CSE and IT students. From Dr. Jaswinder Singh’s energetic and practical session to the motivational words of Sardar Gurcharan Singh Grewal, and the value-based insights shared by Dr. Priya Darshni — each speaker brought something unique to the day. Students not only learned about technical and spiritual connections but also understood the importance of human values in shaping a successful and balanced life._
+
+
+# Day 4 (4 August 2025)
+
+🧪** Morning Subject Lectures (CSE-E)**
+
+The fourth day of the induction program began at 9:30 AM with a Chemistry lecture by prof. Rajvir Kaur in the TCC Seminar Hall.Mam was explaining the syllabus and asking a few questions from the topic of Electrochemistry. She also discussed the exam pattern and assured us not to worry about the exams.
