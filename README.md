@@ -216,6 +216,26 @@ In the P2P lecture, our seniors continued teaching us C++. Since some students d
 
 In the last 30 minutes, Jaswant Sir introduced himself and spoke to us about college etiquette. He also guided us on what to wear and how to maintain a professional and respectful appearance on campus.
 
+📹**Mr.Jasvir singh sekhon (_District Resource Person- STEM)**
+
+In the absence of Arvind Sir, the lecture was conducted by Jasvir Singh. He began by introducing himself and then spoke about the importance of college etiquette. He guided students on how to maintain proper discipline, interact respectfully with peers and faculty, and conduct themselves in a professional manner. He also shared tips on appropriate dressing for college, emphasizing neatness and simplicity. His talk aimed to help students adapt to the college environment and present themselves confidently.
+
+📈**Dr. Lakhvir Singh Khanna (_Incharge, CML_)**
+
+He delivered an insightful session explaining how core branches differ from other streams in engineering. He underlined the significance of seniors and alumni, noting how their guidance and experiences can help students navigate their academic and professional journeys.
+
+He then introduced the Centre for Multi-faceted Learning (CML), outlining its mission and vision. He encouraged students to actively explore the wide range of opportunities available both within the campus and beyond, but reminded them that academic priorities should never be compromised for any extracurricular activity.
+
+Dr. Khanna also introduced the SWAYAM and NPTEL portals, explaining their role in enhancing learning. He guided students on how to search for courses and complete the registration process. These courses, he explained, are valuable for skill development, personality enhancement, and academic growth, and can also contribute towards open electives or an honours degree.
+
+👌**Dr. Arvind Dhingra (Director-STEP and incharge-TAC)**
+Towards the end of the session, Arvind Sir arrived and had only about five minutes to speak, as most of the time had been taken by Dr. Lakhvir Singh Khanna’s talk. Understanding that the students were already tired, he kept his introduction brief. He spoke a few encouraging words, assured that he would interact with us more in the future, and concluded by saying that we would meet again soon.
+
+_The day started with a P2P lecture for CSE-E students to revise C++ basics, followed by Jaswant Sir’s talk on college etiquette. After lunch, Jasvir Singh Sir delivered a session, and Dr. Lakhvir Singh Khanna discussed core branches, alumni, holistic development, and the CML initiative, also guiding students about SWAYAM and NPTEL courses. In the end, Arvind Sir gave a brief five-minute introduction and promised to meet again._
+
+
+
+
 
 
 
