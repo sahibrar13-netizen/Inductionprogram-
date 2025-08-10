@@ -170,6 +170,16 @@ _Day 3 of the induction program was deeply enriching and meaningful for CSE and 
 
 The fourth day of the induction program began at 9:30 AM with a Chemistry lecture by prof. Rajvir Kaur in the TCC Seminar Hall.Mam was explaining the syllabus and asking a few questions from the topic of Electrochemistry. She also discussed the exam pattern and assured us not to worry about the exams.
 
-**peer to peer lecture**
+🧑‍💻**peer to peer lecture**
 
 From 10:30 AM to 11:30 AM, students attended a P2P (Peer-to-Peer) lecture in the same hall. This session aimed to prepare student for higher studies.during the P2P session, our seniors shared their valuable experiences at GNE and introduced us to the fundamentals of C++ programming, covering topics such as variables, operators, and other basic concepts. Their guidance was both informative and motivating.
+
+👩‍🏫**Expert Lecture by Dr. Priya Darshni** —
+
+At 12:30 PM, an insightful session was conducted by Dr. Priya Darshni Madam on Universal Human Values in the auditorium. Building on her earlier lecture, she discussed how ethics, empathy, and responsibility form the foundation for both personal and professional growth. at the end of the session she gave us assignment as homework.
+
+🎭 Causmic Club Interactive Session
+
+The day concluded with a lively Causmic Club session from 2:30 PM to 3:30 PM. Seniors from the club engaged the students with interactive activities, creative discussions, and an introduction to the club’s upcoming events. The session helped freshers feel more connected with their peers and motivated them to take part in extra-curricular opportunities.
+
+_Day 4 was a balanced mix of academic learning, value-based education, and student interaction. From gaining technical knowledge in Chemistry and P2P to understanding life skills through Universal Human Values, and finally bonding through Causmic Club activities — the day contributed significantly to students’ overall development._
