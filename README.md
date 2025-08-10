@@ -169,3 +169,7 @@ _Day 3 of the induction program was deeply enriching and meaningful for CSE and 
 🧪**Morning Subject Lectures (CSE-E)**
 
 The fourth day of the induction program began at 9:30 AM with a Chemistry lecture by prof. Rajvir Kaur in the TCC Seminar Hall.Mam was explaining the syllabus and asking a few questions from the topic of Electrochemistry. She also discussed the exam pattern and assured us not to worry about the exams.
+
+**peer to peer lecture**
+
+From 10:30 AM to 11:30 AM, students attended a P2P (Peer-to-Peer) lecture in the same hall. This session aimed to prepare student for higher studies.during the P2P session, our seniors shared their valuable experiences at GNE and introduced us to the fundamentals of C++ programming, covering topics such as variables, operators, and other basic concepts. Their guidance was both informative and motivating.
