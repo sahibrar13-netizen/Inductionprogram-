@@ -164,6 +164,8 @@ _Day 3 of the induction program was deeply enriching and meaningful for CSE and 
 
 # Day 4 (4 August 2025)
 
-🧪** Morning Subject Lectures (CSE-E)**
+## Induction day 4 summary 
+
+🧪**Morning Subject Lectures (CSE-E)**
 
 The fourth day of the induction program began at 9:30 AM with a Chemistry lecture by prof. Rajvir Kaur in the TCC Seminar Hall.Mam was explaining the syllabus and asking a few questions from the topic of Electrochemistry. She also discussed the exam pattern and assured us not to worry about the exams.
