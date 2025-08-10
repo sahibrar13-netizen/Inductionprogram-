@@ -183,3 +183,39 @@ At 12:30 PM, an insightful session was conducted by Dr. Priya Darshni Madam on U
 The day concluded with a lively Causmic Club session from 2:30 PM to 3:30 PM. Seniors from the club engaged the students with interactive activities, creative discussions, and an introduction to the club’s upcoming events. The session helped freshers feel more connected with their peers and motivated them to take part in extra-curricular opportunities.
 
 _Day 4 was a balanced mix of academic learning, value-based education, and student interaction. From gaining technical knowledge in Chemistry and P2P to understanding life skills through Universal Human Values, and finally bonding through Causmic Club activities — the day contributed significantly to students’ overall development._
+
+# Day 5 (5 August 2025)
+
+## Induction Day 5 summary 
+
+
+🌐**English Lecture (Prof. Manjot Kaur)**
+
+The lecture began with Ma’am introducing herself and giving an overview of the syllabus and exam pattern. She then asked each student to introduce themselves. Initially, we were all nervous about speaking in front of everyone, but she encouraged us with motivating words, which helped us overcome our fear and speak with confidence.
+
+📊**Mathematics Lecture (Prof. Rajbir Kaur)**
+
+Ma’am started by introducing herself and explaining the syllabus and exam pattern. She then asked questions based on Class 12 basics and reminded us not to forget our fundamentals. She assured us that if we had any difficulty, she would help us revise them.
+
+🔋**BEE Lecture (Prof. Mandeep Kaur)**
+
+The lecture began with Ma’am introducing herself, followed by an explanation of the syllabus and exam pattern. She asked us a few basic questions from Class 12 Physics, then started explaining some basic concepts on the board. We all listened attentively and took notes.
+
+_Day 5 was about building confidence in communication during the English lecture, revisiting Class 12 basics in Mathematics, and starting with fundamental concepts in BEE._
+
+
+# Day 6 (6 august 2025)
+
+## Induction Day 6 summary 
+
+✅**Peer to Peer lecture
+
+In the P2P lecture, our seniors continued teaching us C++. Since some students did not fully understand the last session, they started again from the basics. The lecture continued until 11:00 AM, and they put in their 100% effort to ensure we understood the fundamentals clearly. Their patience and dedication made it easier for everyone to grasp the concepts.
+
+📑**Lecture by prof. Jaswant Singh**
+
+In the last 30 minutes, Jaswant Sir introduced himself and spoke to us about college etiquette. He also guided us on what to wear and how to maintain a professional and respectful appearance on campus.
+
+
+
+
