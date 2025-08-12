@@ -264,3 +264,13 @@ After the break, from 1:30 PM to 2:30 PM, CSE-E students attended a BEEE Lecture
 From 2:30 PM to 3:30 PM, CSE-E students had their first English Lecture in Room F-107, taught by Prof. Manjot Kaur. As it was the first class, the professor introduced herself and shared her teaching approach. She spoke about the importance of communication skills in both academic and professional life and encouraged students to overcome the fear of communication. She motivated the class to participate actively, practice regularly, and view communication as a powerful tool for success rather than something to be afraid of.
 
 _On 7th August 2025, CSE-E students learned about college facilities, welfare services, and exam rules. They studied temperature effects on resistance, network types, and attended their first English lecture on the importance of communication and confidence_
+
+# Day 8(8 August 2025)
+
+## Induction Day 8 summary 
+
+😄**peer to peer lecture**
+
+On 08-08-25, the scheduled timetable for CSE-E mentioned a Chemistry lecture from 9:00 AM to 10:30 AM followed by a P2P lecture from 10:30 AM to 12:00 Noon. However, since the Chemistry teacher was busy elsewhere, both sessions were conducted as P2P lectures. During this time, a senior took the class and introduced advanced concepts of C++ programming. The session included explanations of these topics as well as hands-on coding practice, allowing students to apply what they learned in real time. This resulted in the entire morning being dedicated to strengthening C++ coding skills instead of the originally planned mix of Chemistry and P2P.
+
+_On 08-08-25, both scheduled lectures for CSE-E were conducted as P2P sessions instead of Chemistry and P2P. A senior taught advanced C++ concepts with practical coding exercises throughout the morning._
