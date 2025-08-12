@@ -235,7 +235,32 @@ _The day started with a P2P lecture for CSE-E students to revise C++ basics, fol
 
 
 
+# Day 7 (7 August 2025)
+
+## Induction Day 7 summary 
 
 
 
 
+🧑‍💻**Dr. Amit kamra(_incharge of-DMC_)**
+
+On Thursday, 7 August 2025, the session began with Dr. Amit Kamra, who introduced the Digital Media Cell of the college. He explained how it works as a platform to showcase the talents and achievements of students, covering events, activities, and important updates through social media and other online channels. He encouraged students to actively participate in events and share their skills, as the cell also helps in building a strong portfolio for the future.
+
+🔥**Dr. Parminder Singh (_Dean Student welfare_)**
+
+Following this, Dr. Parminder Singh took the stage to talk about the importance of mental health and overall well-being. He informed the students about the various cultural clubs, activities, and student welfare resources available in the college. He emphasized balancing academics with extracurricular activities to ensure a healthy college life.
+
+💯**Dr. Randhir singh (_conduct of examination_)**
+
+Later, Dr. Randhir Singh guided students about the academic framework, including the exam pattern, attendance requirements, and essential tips to avoid academic stress. He also addressed how students can manage time effectively to meet both academic and personal goals.
+
+
+📑**Prof. Mandeep Kaur**
+
+After the break, from 1:30 PM to 2:30 PM, CSE-E students attended a BEEE Lecture in Room F-107 conducted by Prof. Mandeep Kaur from the Electrical Engineering department. In this session, she explained the effect of temperature on resistance, the concept of electrical networks, and different types of networks. Students also made detailed notes during the lecture.
+
+📌**prof. Manjot Kaur**
+
+From 2:30 PM to 3:30 PM, CSE-E students had their first English Lecture in Room F-107, taught by Prof. Manjot Kaur. As it was the first class, the professor introduced herself and shared her teaching approach. She spoke about the importance of communication skills in both academic and professional life and encouraged students to overcome the fear of communication. She motivated the class to participate actively, practice regularly, and view communication as a powerful tool for success rather than something to be afraid of.
+
+_On 7th August 2025, CSE-E students learned about college facilities, welfare services, and exam rules. They studied temperature effects on resistance, network types, and attended their first English lecture on the importance of communication and confidence_
