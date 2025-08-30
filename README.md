@@ -14,6 +14,8 @@ Mobile: 9306641547
 
 Email: sahibrar13@gmail.com
 
+![Image](https://github.com/user-attachments/assets/92adfaae-266f-4653-93e9-55641539564a)
+
 # Day 1: 31th July 2025
 
 ## 8:30 – 9:30 AM |                      
